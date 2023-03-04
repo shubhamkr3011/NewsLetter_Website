@@ -1,0 +1,18 @@
+{
+  "name": "newsletter_project",
+  "version": "1.0.0",
+  "description": "this is my personal newsletter site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Shubham Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
